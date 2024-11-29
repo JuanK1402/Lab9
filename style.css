@@ -1,21 +1,21 @@
  /* Estilos para el encabezado */
  header {
-    background-color: #91af4cb8;
+    background-color: #af6d4c;
     padding: 20px;
     text-align: center;
-    color: rgba(255, 255, 255, 0.822);
+    color: #060606;
 }
 
 /* Estilos para la barra de navegación */
 nav a {
-    color: #20349b;
+    color: black;
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #7c3bffc8;
+    color: #f53bff;
 }
 
 /* Estilos para la sección principal */
@@ -41,7 +41,7 @@ nav a:hover {
 /* Estilos para el pie de página */
 footer {
     background-color: #333;
-    color: #44469b;
+    color: white;
     text-align: center;
     padding: 10px 0;
     margin-top: 20px;
